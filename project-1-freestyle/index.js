@@ -7,7 +7,7 @@ app.get("/", (req, res) => {
   res.status(200).json({
     status: "ok",
     project: "project-1-freestyles APIs",
-    message: "Welcome to Project 1",
+    message: "Welcome to Project APIss",
   });
 });
 
